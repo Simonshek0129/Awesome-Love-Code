@@ -18,7 +18,11 @@
 	9.Registry section
 	10.Mediaqueries
 
-
+.firework {
+  position: absolute;
+  border-radius: 50%;
+  opacity: 0;
+}
 
 
 
